@@ -17,6 +17,7 @@ public class ContactBook {
             System.out.println("3. Search Contact");
             System.out.println("4. Show Contact Book");
             System.out.println("5. Exit");
+            System.out.println("Enter your choice: ");
 
             choice = sc.nextInt();
             sc.nextLine();
